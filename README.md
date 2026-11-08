@@ -2,9 +2,11 @@
 
 Where does America's food come from, and how has that changed? This project analyzes 25 years of U.S. food import data from the USDA Economic Research Service, covering 58 supplier countries. The data is prepared in Excel, modeled in SQL Server, and visualized in an interactive two-page Power BI dashboard (Overview and Countries).
 
-[![Dashboard overview](screenshots/dashboard_overview.png)](POWERBI_LINK_HERE)
+[![Dashboard overview](screenshots/dashboard_overview.png)](https://app.powerbi.com/view?r=eyJrIjoiNDA4MTZmMzItNDE2YS00YmE3LWJhMGMtZjY0OGE3NTg3MjY2IiwidCI6ImJjNGQ5MjI5LTgwODktNGE3Zi1iZjQwLTA0NTk0MDFlOWVkMiIsImMiOjJ9)
 
-**[View the live Power BI dashboard](POWERBI_LINK_HERE)** (click the image or this link)
+**[View the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDA4MTZmMzItNDE2YS00YmE3LWJhMGMtZjY0OGE3NTg3MjY2IiwidCI6ImJjNGQ5MjI5LTgwODktNGE3Zi1iZjQwLTA0NTk0MDFlOWVkMiIsImMiOjJ9)** (click the image or this link)
+
+**[Watch the project walkthrough (Loom)](https://www.loom.com/share/045b0c2572cc45e09a424acfddb2ff74)**
 
 ## Key Findings
 
